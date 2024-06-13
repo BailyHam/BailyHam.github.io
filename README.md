@@ -109,9 +109,9 @@ The Animal Shelter Management System is a comprehensive application that combine
 
 ## Artifact Narratives
 
-[Artifact Narrative for ePortfolio.docx]([Week 3.docx](https://github.com/user-attachments/files/15828773/Week.3.docx)
-[Artifact Narrative for ePortfolio.docx]([Milestone.docx](https://github.com/user-attachments/files/15828777/Milestone.docx))
-[Artifact Narrative for ePortfolio.docx]([Milestone.docx](https://github.com/user-attachments/files/15828778/Milestone.docx)))
+[Artifact Narrative for ePortfolio.docx](https://github.com/user-attachments/files/15828773/Week.3.docx)
+[Artifact Narrative for ePortfolio.docx](https://github.com/user-attachments/files/15828777/Milestone.docx)
+[Artifact Narrative for ePortfolio.docx](https://github.com/user-attachments/files/15828778/Milestone.docx)
 
 # Code Review
 
