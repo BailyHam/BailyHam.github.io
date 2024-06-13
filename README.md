@@ -92,17 +92,26 @@ Scalability:
 By using MongoDB Atlas, the application leverages cloud-based database services that provide scalability, high availability, and security features, aligning with industry standards for modern database management.
 
 ## Screenshots
-
-
+![Capture](https://github.com/BailyHam/BailyHam.github.io/assets/135756610/0c39e302-ff06-433f-b93c-e588bc94b43c)
+![1Capture](https://github.com/BailyHam/BailyHam.github.io/assets/135756610/a077c848-7b6f-4e24-820f-1ad3188a092d)
+![2Capture](https://github.com/BailyHam/BailyHam.github.io/assets/135756610/74f3d8ea-fc43-4731-aaf8-b6e23940671f)
+![3Capture](https://github.com/BailyHam/BailyHam.github.io/assets/135756610/7f028eda-c52f-4e27-9a9e-e6dea172c9f3)
+![4Capture](https://github.com/BailyHam/BailyHam.github.io/assets/135756610/63a30cf5-3cac-4801-b69f-57e4a47a5f21)
+![5Capture](https://github.com/BailyHam/BailyHam.github.io/assets/135756610/bd723d99-dec8-45b6-a844-03cc994ac10f)
+![6Capture](https://github.com/BailyHam/BailyHam.github.io/assets/135756610/a86f947c-4379-421b-a6e0-5067206c9469)
+![7Capture](https://github.com/BailyHam/BailyHam.github.io/assets/135756610/37d44e78-2369-46de-8384-451f99a82bc8)
+![8Capture](https://github.com/BailyHam/BailyHam.github.io/assets/135756610/3c9fa888-29d8-45e6-8071-d19da61b8edb)
+![9Capture](https://github.com/BailyHam/BailyHam.github.io/assets/135756610/fffe6bcf-1b0c-455f-8a75-2abdad6f5dad)
+![10Capture](https://github.com/BailyHam/BailyHam.github.io/assets/135756610/9bebdfd0-5428-4387-8486-2dd8a72b0d38)
 
 ## Conclusion
 The Animal Shelter Management System is a comprehensive application that combines software design and engineering principles, efficient algorithms and data structures, and advanced database management techniques. This project meets the requirements of an effective animal shelter management tool and demonstrates the developer's expertise in creating well-designed, efficient, and scalable software solutions. Including this artifact in the ePortfolio highlights the skills and knowledge gained throughout the Computer Science program, preparing the developer for a successful career in the field.
 
 ## Artifact Narratives
 
-[Artifact Narrative for ePortfolio.docx]()
-
-
+[Artifact Narrative for ePortfolio.docx]([Week 3.docx](https://github.com/user-attachments/files/15828773/Week.3.docx))
+[Artifact Narrative for ePortfolio.docx]([Milestone.docx](https://github.com/user-attachments/files/15828777/Milestone.docx))
+[Artifact Narrative for ePortfolio.docx]([Milestone.docx](https://github.com/user-attachments/files/15828778/Milestone.docx))
 
 # Code Review
 
