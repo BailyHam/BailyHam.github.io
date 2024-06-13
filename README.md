@@ -1,4 +1,3 @@
-# BailyHam.github.io
 ## Professional Self-Assessment
 ### Introduction
 
